@@ -4,3 +4,15 @@ opencv-python-headless
 numpy
 gdown
 tflite_runtime
+python-dotenv
+loguru
+pytest
+pytest-flask
+pandas
+scikit-learn
+Flask-Limiter
+Flask-Cors
+Pillow
+Flask-Compress
+Flask-SocketIO
+python-magic
