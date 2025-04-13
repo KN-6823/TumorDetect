@@ -15,9 +15,11 @@ This is a web-based AI tool for detecting the **presence of brain tumors** using
 
 ## 🖥️ Website Preview
 
-![image](https://github.com/user-attachments/assets/d932fa72-0666-4897-8259-b5abf1846b0f)
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/81c05222-19b9-40a4-bb8a-2a2e690700bc)
+![image](https://github.com/user-attachments/assets/2da62d35-0b6b-43e2-95ad-b544c21408b2)
+![image](https://github.com/user-attachments/assets/af570957-a8d7-47cd-853f-5644bbd9c657)
+
+
 
 
 
