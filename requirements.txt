@@ -1,0 +1,6 @@
+Flask
+Gunicorn
+opencv-python-headless
+numpy
+gdown
+tflite_runtime
